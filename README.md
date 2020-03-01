@@ -17,7 +17,7 @@ import React, { Component } from 'react'
 
 import CsvToTable from 'mf-react-csv-to-table'
 
-export default class App extends Component {
+class Example extends Component {
 
   constructor(props) {
     super(props);

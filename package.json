@@ -1,6 +1,6 @@
 {
   "name": "mf-react-csv-to-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MF React csv to html table is a simple reactjs library that takes CSV file content as input and renders a simple HTML table with pagination.",
   "author": "mgonzalez1",
   "license": "MIT",
